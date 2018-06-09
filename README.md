@@ -57,10 +57,11 @@ All of the files are in the format of a standard properties file, with the key b
 
 ##### \*\*MANUFACTURER\*\*/manufacturer.txt
 This file contains details about the manufacturer. At the moment the following properties are in use in the database.
-| Property Key 	| Description   							| Example		|
-| --------------|:-----------------------------------------:|:-------------:|
-| NAME      	| The name of the manufacturer 				| Airbus 		|
-| COMPANY      	| The corporate name of the manufacturer    | Airbus SE 	|
+
+| Property Key 	| Description   				| Example	|
+| --------------|:-----------------------------------------:	|:-------------:|
+| NAME      	| The name of the manufacturer 			| Airbus 	|
+| COMPANY      	| The corporate name of the manufacturer    	| Airbus SE 	|
 
 ##### \*\*MANUFACTURER\*\*/\*\*AIRCRAFT TYPE\*\*/\*\*AIRCRAFT TYPE\*\*.txt *or* \*\*MANUFACTURER\*\*/\*\*AIRCRAFT TYPE\*\*/Varients/\*\*VARIENT\*\*.txt
 Here, \*\*AIRCRAFT TYPE\*\* should ideally be the ICAO code of the aircraft type, and \*\*VARIENT\*\* should be the varient model name (e.g A320-111). However, it can in reality be whatever works. This file sets the base properties for the aircraft type (if it is the \*\*AIRCRAFT TYPE\*\*.txt file), or it overwrites/extends the aircraft type base file.
