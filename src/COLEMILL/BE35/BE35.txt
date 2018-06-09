@@ -1,0 +1,6 @@
+MODEL=Starfire Bonanza 35
+ICAO=BE35
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

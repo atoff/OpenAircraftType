@@ -1,0 +1,6 @@
+MODEL=White Lightning
+ICAO=WHIL
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

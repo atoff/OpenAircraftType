@@ -1,0 +1,6 @@
+MODEL=Messerschmitt Bf-109 Replica
+ICAO=MJ90
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

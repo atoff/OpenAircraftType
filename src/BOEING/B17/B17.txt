@@ -1,0 +1,6 @@
+MODEL=B-17 Flying Fortress
+ICAO=B17
+CLASS=L
+WAKE=M
+ENG_TYPE=P
+ENG_NUM=4

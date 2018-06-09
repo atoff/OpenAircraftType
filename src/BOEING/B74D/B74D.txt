@@ -1,0 +1,6 @@
+MODEL=747-400 (domestic, no winglets)
+ICAO=B74D
+CLASS=L
+WAKE=H
+ENG_TYPE=J
+ENG_NUM=4

@@ -1,0 +1,6 @@
+MODEL=Australian LightWing GR-912
+ICAO=LWIN
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

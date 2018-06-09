@@ -1,0 +1,6 @@
+MODEL=Nordic 8 Mini Explorer
+ICAO=MNEX
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

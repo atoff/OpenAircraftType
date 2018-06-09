@@ -1,0 +1,2 @@
+MODEL=F-35B Lightning II (STOVL)
+RANGE=900

@@ -1,0 +1,3 @@
+MODEL=Super 310
+ENG_TYPE=P
+ENG_NUM=2

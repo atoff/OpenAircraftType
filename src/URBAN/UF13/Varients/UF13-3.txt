@@ -1,0 +1,3 @@
+MODEL=UFM-13 Lambada
+ENG_TYPE=P
+ENG_NUM=1

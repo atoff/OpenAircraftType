@@ -1,0 +1,6 @@
+MODEL=Lafayette 1 Sportster
+ICAO=MCR1
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

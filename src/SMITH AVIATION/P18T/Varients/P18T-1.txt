@@ -1,0 +1,3 @@
+MODEL=Super Cub (PA-18T)
+ENG_TYPE=T
+ENG_NUM=1

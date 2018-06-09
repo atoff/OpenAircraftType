@@ -1,0 +1,6 @@
+MODEL=M-18 Turbine Dromader
+ICAO=M18T
+CLASS=L
+WAKE=L
+ENG_TYPE=T
+ENG_NUM=1

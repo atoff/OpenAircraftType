@@ -1,0 +1,3 @@
+MODEL=T8 Observer
+ENG_TYPE=P
+ENG_NUM=1

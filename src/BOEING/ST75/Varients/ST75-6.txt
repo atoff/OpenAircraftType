@@ -1,0 +1,3 @@
+MODEL=PT-27 Kaydet
+ENG_TYPE=P
+ENG_NUM=1

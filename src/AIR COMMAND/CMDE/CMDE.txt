@@ -1,0 +1,6 @@
+MODEL=Commander Elite Side-by-Side
+ICAO=CMDE
+CLASS=G
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

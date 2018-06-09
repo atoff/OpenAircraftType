@@ -1,0 +1,3 @@
+MODEL=Turbo Thrush (S-2R-T34)
+ENG_TYPE=T
+ENG_NUM=1

@@ -1,0 +1,6 @@
+MODEL=320 Executive Skyknight
+ICAO=C320
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=2

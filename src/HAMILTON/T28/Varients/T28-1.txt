@@ -1,0 +1,3 @@
+MODEL=T-28 Nomair
+ENG_TYPE=P
+ENG_NUM=1

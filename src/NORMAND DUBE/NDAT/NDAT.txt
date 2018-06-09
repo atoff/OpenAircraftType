@@ -1,0 +1,6 @@
+MODEL=Aerocruiser Turbo 450
+ICAO=NDAT
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

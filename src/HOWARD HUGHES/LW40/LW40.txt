@@ -1,0 +1,6 @@
+MODEL=Australian LightWing Speed SP-4000
+ICAO=LW40
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

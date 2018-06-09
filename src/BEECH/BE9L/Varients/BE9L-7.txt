@@ -1,0 +1,3 @@
+MODEL=T-44 King Air
+ENG_TYPE=T
+ENG_NUM=2

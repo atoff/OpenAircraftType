@@ -1,0 +1,6 @@
+MODEL=S-2 Thrush (turboprop conversions)
+ICAO=SS2T
+CLASS=L
+WAKE=L
+ENG_TYPE=T
+ENG_NUM=1

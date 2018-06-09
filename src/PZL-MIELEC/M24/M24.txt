@@ -1,0 +1,6 @@
+MODEL=Dromader Super
+ICAO=M24
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

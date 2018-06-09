@@ -1,0 +1,3 @@
+MODEL=J-5P Autocar
+ENG_TYPE=P
+ENG_NUM=1

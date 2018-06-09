@@ -1,0 +1,3 @@
+MODEL=White Hawk
+ENG_TYPE=T
+ENG_NUM=2

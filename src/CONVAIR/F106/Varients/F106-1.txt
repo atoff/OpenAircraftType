@@ -1,0 +1,3 @@
+MODEL=QF-106 Delta Dart
+ENG_TYPE=J
+ENG_NUM=1

@@ -1,0 +1,6 @@
+MODEL=36 Bonanza (turbine)
+ICAO=B36T
+CLASS=L
+WAKE=L
+ENG_TYPE=T
+ENG_NUM=1

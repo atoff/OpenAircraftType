@@ -1,0 +1,6 @@
+MODEL=Turbo Skyservant
+ICAO=D28T
+CLASS=L
+WAKE=L
+ENG_TYPE=T
+ENG_NUM=2

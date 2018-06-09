@@ -1,0 +1,6 @@
+MODEL=Twin Condor (turbine)
+ICAO=SA8T
+CLASS=L
+WAKE=L
+ENG_TYPE=T
+ENG_NUM=2

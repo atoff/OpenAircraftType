@@ -1,0 +1,1 @@
+MODEL=F-35A Lightning II (CTOL)

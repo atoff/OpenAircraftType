@@ -1,0 +1,3 @@
+MODEL=JRF Goose
+ENG_TYPE=P
+ENG_NUM=2

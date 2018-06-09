@@ -1,0 +1,3 @@
+MODEL=DHC-1 Chipmunk
+ENG_TYPE=P
+ENG_NUM=1

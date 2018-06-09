@@ -1,0 +1,6 @@
+MODEL=Starfire Bonanza 33
+ICAO=BE33
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

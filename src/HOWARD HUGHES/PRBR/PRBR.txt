@@ -1,0 +1,6 @@
+MODEL=Pocket Rocket PR-Breeze
+ICAO=PRBR
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

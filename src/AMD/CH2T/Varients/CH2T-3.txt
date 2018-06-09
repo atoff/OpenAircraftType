@@ -1,0 +1,3 @@
+MODEL=Z�nith
+ENG_TYPE=P
+ENG_NUM=1

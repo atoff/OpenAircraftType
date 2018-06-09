@@ -1,0 +1,3 @@
+MODEL=CW-20 Commando
+ENG_TYPE=P
+ENG_NUM=2

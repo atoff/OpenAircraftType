@@ -1,0 +1,3 @@
+MODEL=Dreamliner (Srs.8)
+ENG_TYPE=J
+ENG_NUM=2

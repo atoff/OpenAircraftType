@@ -1,0 +1,6 @@
+MODEL=B-29 Superfortress
+ICAO=B29
+CLASS=L
+WAKE=M
+ENG_TYPE=P
+ENG_NUM=4

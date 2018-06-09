@@ -1,0 +1,6 @@
+MODEL=Personal Cruiser
+ICAO=PECR
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

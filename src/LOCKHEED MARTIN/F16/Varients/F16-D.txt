@@ -1,0 +1,4 @@
+MODEL=F-16D Fighting Falcon
+ENG_NAME=F110
+ENG_MAN=General Electric
+ENG_MODEL=F110-GE-129

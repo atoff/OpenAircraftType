@@ -1,0 +1,6 @@
+MODEL=Blanik (single-engine conversions)
+ICAO=L13M
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

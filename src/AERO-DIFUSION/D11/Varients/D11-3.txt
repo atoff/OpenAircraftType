@@ -1,0 +1,3 @@
+MODEL=D-1190S Compostela
+ENG_TYPE=P
+ENG_NUM=1

@@ -1,0 +1,6 @@
+MODEL=Pietenpol Aircamper
+ICAO=CAMP
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

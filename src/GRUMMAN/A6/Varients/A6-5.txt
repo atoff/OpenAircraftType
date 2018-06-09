@@ -1,0 +1,3 @@
+MODEL=KA-6 Intruder
+ENG_TYPE=J
+ENG_NUM=2

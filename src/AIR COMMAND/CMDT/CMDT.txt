@@ -1,0 +1,6 @@
+MODEL=Commander Elite Tandem
+ICAO=CMDT
+CLASS=G
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

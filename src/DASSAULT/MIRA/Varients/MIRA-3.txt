@@ -1,0 +1,3 @@
+MODEL=F-103 Mirage 3
+ENG_TYPE=J
+ENG_NUM=1

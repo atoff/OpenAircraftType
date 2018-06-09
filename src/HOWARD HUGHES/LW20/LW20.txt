@@ -1,0 +1,6 @@
+MODEL=Australian LightWing Speed SP-2000
+ICAO=LW20
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=1

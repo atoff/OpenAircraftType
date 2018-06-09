@@ -1,0 +1,3 @@
+MODEL=Super Rebel (SR-2500)
+ENG_TYPE=P
+ENG_NUM=1

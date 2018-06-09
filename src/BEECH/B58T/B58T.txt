@@ -1,0 +1,6 @@
+MODEL=58P Pressurized Baron
+ICAO=B58T
+CLASS=L
+WAKE=L
+ENG_TYPE=P
+ENG_NUM=2

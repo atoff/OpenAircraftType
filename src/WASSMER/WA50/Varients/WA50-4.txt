@@ -1,0 +1,3 @@
+MODEL=WA-52 Europa
+ENG_TYPE=P
+ENG_NUM=1

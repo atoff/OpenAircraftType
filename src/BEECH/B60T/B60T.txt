@@ -1,0 +1,6 @@
+MODEL=60 Royal Turbine Duke
+ICAO=B60T
+CLASS=L
+WAKE=L
+ENG_TYPE=T
+ENG_NUM=2

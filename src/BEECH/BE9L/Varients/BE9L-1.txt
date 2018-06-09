@@ -1,0 +1,3 @@
+MODEL=90 (B90) King Air
+ENG_TYPE=T
+ENG_NUM=2
