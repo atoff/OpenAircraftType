@@ -8,7 +8,7 @@ The raw data is located in the `src` folder. Compiled versions in differant form
 
 # Contributing
 
-We welcome all contributions! The goal of this project is to create an up-to-rate, reliable database so crowd-input is really import in keeping up to date with the ever evolving aircraft market.
+All contributions are welcome! The goal of this project is to create an up-to-date, reliable database so crowdsourcing is really important in keeping up to date with the ever evolving aircraft market.
 
 ### Compiling the database
 At the moment, I have written a custom python script for compiling the source data into CSV format. It is included in the `compile` directory, however it isn't pretty...
@@ -22,7 +22,7 @@ The folders are configurated as such:
 	<li>
     	**MANUFACTURER** Folder - This holds all of the aircraft made by the manufacturer. It contains a aircraft type information file (more on this later)
         <ul>
-        <li>**AIRCRAFT TYPE** Folder - This holds all of the information about the type. It contains a `**AIRCRAFT TYPE**.txt` file (more on this later)
+        <li>**AIRCRAFT TYPE** Folder - This holds all of the information about the type. It contains a <pre>**AIRCRAFT TYPE**.txt</pre> file (more on this later)
           <ul>
           <li>"Varients" Folder - This folder is optional, and contains any varients of the type.It contains a aircraft type information file for each varient</li>
           </ul>
