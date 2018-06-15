@@ -22,7 +22,7 @@ The folders are configurated as such:
 	<li>
     	**MANUFACTURER** Folder - This holds all of the aircraft made by the manufacturer. It contains a aircraft type information file (more on this later)
         <ul>
-        <li>**AIRCRAFT TYPE** Folder - This holds all of the information about the type. It contains a <pre>**AIRCRAFT TYPE**.txt</pre> file (more on this later)
+        <li>**AIRCRAFT TYPE** Folder - This holds all of the information about the type. It contains a '**AIRCRAFT TYPE**.txt' file (more on this later)
           <ul>
           <li>"Varients" Folder - This folder is optional, and contains any varients of the type.It contains a aircraft type information file for each varient</li>
           </ul>
