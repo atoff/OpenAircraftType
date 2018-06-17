@@ -10,6 +10,8 @@ The raw data is located in the `src` folder. Compiled versions in differant form
 
 All contributions are welcome! The goal of this project is to create an up-to-date, reliable database so crowdsourcing is really important in keeping up to date with the ever evolving aircraft market.
 
+Our most important issues are listed in the "Issues" tab. If you are new, you might want to look at one of the issues marked "good first issue" before tackling a larger, more complex issue. If you would like to claim an issue, simply comment on it and we will assign it to you. Try not to work on an issue claimed by someone else, as you might be doing work that has already been done!
+
 ### Compiling the database
 At the moment, I have written a custom python script for compiling the source data into CSV format. It is included in the `compile` directory, however it isn't pretty...
 
