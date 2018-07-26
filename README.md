@@ -74,7 +74,7 @@ As an example, when you define a varient, say AIRBUS/A320/Varients/A320-111.txt,
 | --------------|:-----------------------------------------:|:-------------:|
 | MODEL      	| The name of the model 							| A320 |
 | ICAO      	| The ICAO designator of the model, if available    | A320 |
-| CLASS      	| The class of the air-vehicle. L=Land Plane,A=Amphibious,H=Helicopter,G=Gyrocopter,S=Sea Plane,T=Tilt Rotor    									  		| L |
+| CLASS      	| The class of the air-vehicle. L=Land Plane,B=Balloon,A=Amphibious,H=Helicopter,G=Gyrocopter,S=Sea Plane,T=Tilt Rotor    									  		| L |
 | WAKE      	| Wake Turbulence Category. L=Light,M=Medium,H=Heavy,J=Jumbo,S=Super    | M |
 | ENG_TYPE      | Type of engines. P=Piston,J=JET,T=Turboprop/shaft,R=Rocket,E=Electric    | J |
 | ENG_NUM      	| Number of engines. Any integer    			| 2 |
