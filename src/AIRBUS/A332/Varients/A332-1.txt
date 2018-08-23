@@ -1,3 +1,0 @@
-MODEL=Voyager
-ENG_TYPE=J
-ENG_NUM=2
