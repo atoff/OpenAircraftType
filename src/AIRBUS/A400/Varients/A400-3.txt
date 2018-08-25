@@ -1,3 +1,0 @@
-MODEL=A-400M Grizzly
-ENG_TYPE=T
-ENG_NUM=4
