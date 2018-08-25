@@ -1,3 +1,0 @@
-MODEL=Prestige (A-330-200)
-ENG_TYPE=J
-ENG_NUM=2
