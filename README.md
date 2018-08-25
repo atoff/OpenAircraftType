@@ -81,7 +81,7 @@ As an example, when you define a varient, say AIRBUS/A320/Varients/A320-111.txt,
 | ENG_NAME      | The name/model of the engines    				| IAE V2527E-A5 |
 | ENG_MAN      	| The name of the engine manufacturer    		| International Aero Engines |
 | ENG_MODEL     | The name of the engine model    				| V2527E-A5 |
-| ENG_THRUST    | Thrust per engine in newtons    				| 118320 |
+| ENG_THRUST    | Thrust per engine in newtons OR Power in horsepower (for prop/turbo props)    				| 118320 |
 | LENGTH      	| Length (nose to tail) in meters    			| 37.57 |
 | WINGSPAN     	| Wingspan in meters    						| 35.8 |
 | TAIL_HEIGHT   | Tail height in meters    						| 11.76 |
