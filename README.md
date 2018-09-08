@@ -4,7 +4,7 @@ The aim of OpenAircraftType is to provide an open-source, adaptable database of 
 
 # Where is the data!
 
-The raw data is located in the `src` folder. Compiled versions in differant formats can be found in `build`. However, if you are using the data for a custom application, I highly suggest creating your own compiler tool so you get just the data you want/need.
+The raw data is located in the `src` folder. Compiled versions can be found in the [releases](https://github.com/atoff/OpenAircraftType/releases). However, if you are using the data for a custom application, I highly suggest creating your own compiler tool so you get just the data you want/need.
 
 # Contributing
 
