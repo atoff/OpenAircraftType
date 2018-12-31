@@ -1,3 +1,0 @@
-MODEL=Aerobat (A152)
-ENG_TYPE=P
-ENG_NUM=1
