@@ -3,7 +3,7 @@ import os,csv,configparser
 outputcsv = "../build/ALL_DATA.csv";
 readdir = "../src";
 man_cols={"NAME":"manufacturer_name","COMPANY":"manufacturer_company"}
-type_cols={"MODEL":"model","ICAO":"icao","CLASS":"class","WAKE":"wake","ENG_TYPE":"engine_type","ENG_NUM":"engine_number","ENG_NAME":"engine_name","ENG_MAN":"engine_manufacturer","ENG_MODEL":"engine_model","ENG_THRUST":"engine_thrust","LENGTH":"length","WINGSPAN":"wingspan","TAIL_HEIGHT":"tail_height","RANGE":"range","CEILING":"ceiling","MAX_SPEED":"max_speed","PAX_CAP":"passenger_capacity"}
+type_cols={"MODEL":"model","ICAO":"icao","CLASS":"class","WAKE":"wake","ENG_TYPE":"engine_type","ENG_NUM":"engine_number","ENG_NAME":"engine_name","ENG_MAN":"engine_manufacturer","ENG_MODEL":"engine_model","ENG_THRUST":"engine_thrust","LENGTH":"length","WINGSPAN":"wingspan","TAIL_HEIGHT":"tail_height","RANGE":"range","CEILING":"ceiling","MAX_SPEED":"max_speed","PAX_CAP":"passenger_capacity","REMARKS":"remarks"}
 varient_cols={"BASE_MODEL":"base_model"}
 cols={**man_cols, **{"is_varient":'is_varient'}, **type_cols, **varient_cols}
 if os.path.exists(outputcsv):
