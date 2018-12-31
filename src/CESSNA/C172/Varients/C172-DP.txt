@@ -1,0 +1,4 @@
+MODEL=172D Powermatic
+ENG_NAME=GO-300E
+ENG_MAN=Continental
+ENG_MODEL=GO-300E

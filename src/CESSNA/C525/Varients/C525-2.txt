@@ -1,3 +1,1 @@
-MODEL=Citation CJ1
-ENG_TYPE=J
-ENG_NUM=2
+MODEL=525 CitationJet CJ1+

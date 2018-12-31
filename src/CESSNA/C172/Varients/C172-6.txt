@@ -1,3 +1,0 @@
-MODEL=P172 Skyhawk Powermatic
-ENG_TYPE=P
-ENG_NUM=1

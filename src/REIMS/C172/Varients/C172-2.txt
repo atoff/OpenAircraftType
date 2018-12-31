@@ -1,0 +1,4 @@
+MODEL=F172J Reims Rocket
+ENG_NAME=GO-360-H(B)
+ENG_MAN=Continental
+ENG_MODEL=GO-360-H(B)

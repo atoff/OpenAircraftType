@@ -1,3 +1,0 @@
-MODEL=172 Skyhawk
-ENG_TYPE=P
-ENG_NUM=1
