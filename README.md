@@ -4,7 +4,7 @@ The aim of OpenAircraftType is to provide an open-source, adaptable database of 
 
 # Where is the data!
 
-The raw data is located in the `src` folder. Compiled versions in differant formats can be found in `build`. However, if you are using the data for a custom application, I highly suggest creating your own compiler tool so you get just the data you want/need.
+The raw data is located in the `src` folder. Compiled versions can be found in the [releases](https://github.com/atoff/OpenAircraftType/releases). However, if you are using the data for a custom application, I highly suggest creating your own compiler tool so you get just the data you want/need.
 
 # Contributing
 
@@ -74,14 +74,14 @@ As an example, when you define a varient, say AIRBUS/A320/Varients/A320-111.txt,
 | --------------|:-----------------------------------------:|:-------------:|
 | MODEL      	| The name of the model 							| A320 |
 | ICAO      	| The ICAO designator of the model, if available    | A320 |
-| CLASS      	| The class of the air-vehicle. L=Land Plane,A=Amphibious,H=Helicopter,G=Gyrocopter,S=Sea Plane,T=Tilt Rotor    									  		| L |
+| CLASS      	| The class of the air-vehicle. L=Land Plane,B=Balloon,A=Amphibious,H=Helicopter,G=Gyrocopter,S=Sea Plane,T=Tilt Rotor    									  		| L |
 | WAKE      	| Wake Turbulence Category. L=Light,M=Medium,H=Heavy,J=Jumbo,S=Super    | M |
 | ENG_TYPE      | Type of engines. P=Piston,J=JET,T=Turboprop/shaft,R=Rocket,E=Electric    | J |
 | ENG_NUM      	| Number of engines. Any integer    			| 2 |
 | ENG_NAME      | The name/model of the engines    				| IAE V2527E-A5 |
 | ENG_MAN      	| The name of the engine manufacturer    		| International Aero Engines |
 | ENG_MODEL     | The name of the engine model    				| V2527E-A5 |
-| ENG_THRUST    | Thrust per engine in newtons    				| 118320 |
+| ENG_THRUST    | Thrust per engine in newtons OR Power in horsepower (for prop/turbo props)    				| 118320 |
 | LENGTH      	| Length (nose to tail) in meters    			| 37.57 |
 | WINGSPAN     	| Wingspan in meters    						| 35.8 |
 | TAIL_HEIGHT   | Tail height in meters    						| 11.76 |
