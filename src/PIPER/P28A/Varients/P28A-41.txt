@@ -1,3 +1,0 @@
-MODEL=Cherokee Flite Liner
-ENG_TYPE=P
-ENG_NUM=1

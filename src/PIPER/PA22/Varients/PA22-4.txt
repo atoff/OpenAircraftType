@@ -1,3 +1,0 @@
-MODEL=PA-22 Tri-Pacer
-ENG_TYPE=P
-ENG_NUM=1

@@ -1,3 +1,0 @@
-MODEL=PA-11 Cub Special
-ENG_TYPE=P
-ENG_NUM=1

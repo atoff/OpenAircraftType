@@ -88,8 +88,10 @@ As an example, when you define a varient, say AIRBUS/A320/Varients/A320-111.txt,
 | RANGE      	| Range in nautical miles    					| 3300 |
 | CEILING      	| Operational ceiling in feet    				| 41000 |
 | MAX_SPEED     | Maximum Speed in knots    					| 470 |
-| PAX_CAP     	| The maximum passenger capacity    			| 195 |
+| PAX_CAP     	| The maximum passenger capacity (not including pilot(s))    			| 195 |
 | REMARKS       | Another other pertinent information          | Aerobatics Approved |
 
-# Data usage
+# Data usage and attribution
+Data from Wikipedia is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/)
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

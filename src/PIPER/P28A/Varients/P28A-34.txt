@@ -1,3 +1,0 @@
-MODEL=Cherokee 140-4
-ENG_TYPE=P
-ENG_NUM=1

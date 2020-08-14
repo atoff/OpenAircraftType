@@ -1,0 +1,4 @@
+ENG_NAME=Continental C90-8
+ENG_MAN=Continental
+ENG_MODEL=C90-8
+ENG_THRUST=95
