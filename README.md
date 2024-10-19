@@ -1,6 +1,6 @@
 # About
 
-The aim of OpenAircraftType is to provide an open-source, adaptable database of aircraft types and varients.
+The aim of OpenAircraftType is to provide an open-source, adaptable database of aircraft types and variants.
 
 # Where is the data!
 
@@ -26,7 +26,7 @@ The folders are configurated as such:
         <ul>
         <li>**AIRCRAFT TYPE** Folder - This holds all of the information about the type. It contains a '**AIRCRAFT TYPE**.txt' file (more on this later)
           <ul>
-          <li>"Varients" Folder - This folder is optional, and contains any varients of the type.It contains a aircraft type information file for each varient</li>
+          <li>"Variants" Folder - This folder is optional, and contains any variants of the type.It contains a aircraft type information file for each variant</li>
           </ul>
         </li>
         </ul>
@@ -41,7 +41,7 @@ As an example:
         <li>A320
           <ul>
           <li>
-          	Varients
+          	Variants
             <ul><li>A320-111.txt</li><li>A320-121.txt</li><li>....txt</li></ul>
           </li>
           <li>A320.txt</li>
@@ -55,7 +55,7 @@ As an example:
 ### File Contents
 
 All of the files are in the format of a standard properties file, with the key being the first string
-(i.e `MODEL=A320`). If you want to add data that is not covered by the following properties, simply create a suitable, unique name for it and utilize it (making sure to add it to the appropriate section below). Ideally, all properties below are defined for each and every type (and/or varient)!
+(i.e `MODEL=A320`). If you want to add data that is not covered by the following properties, simply create a suitable, unique name for it and utilize it (making sure to add it to the appropriate section below). Ideally, all properties below are defined for each and every type (and/or variant)!
 
 ##### \*\*MANUFACTURER\*\*/manufacturer.txt
 This file contains details about the manufacturer. At the moment the following properties are in use in the database.
@@ -65,10 +65,10 @@ This file contains details about the manufacturer. At the moment the following p
 | NAME      	| The name of the manufacturer 			| Airbus 	|
 | COMPANY      	| The corporate name of the manufacturer    	| Airbus SE 	|
 
-##### \*\*MANUFACTURER\*\*/\*\*AIRCRAFT TYPE\*\*/\*\*AIRCRAFT TYPE\*\*.txt *or* \*\*MANUFACTURER\*\*/\*\*AIRCRAFT TYPE\*\*/Varients/\*\*VARIENT\*\*.txt
-Here, \*\*AIRCRAFT TYPE\*\* should ideally be the ICAO code of the aircraft type, and \*\*VARIENT\*\* should be the varient model name (e.g A320-111). However, it can in reality be whatever works. This file sets the base properties for the aircraft type (if it is the \*\*AIRCRAFT TYPE\*\*.txt file), or it overwrites/extends the aircraft type base file.
+##### \*\*MANUFACTURER\*\*/\*\*AIRCRAFT TYPE\*\*/\*\*AIRCRAFT TYPE\*\*.txt *or* \*\*MANUFACTURER\*\*/\*\*AIRCRAFT TYPE\*\*/Variants/\*\*VARIANT\*\*.txt
+Here, \*\*AIRCRAFT TYPE\*\* should ideally be the ICAO code of the aircraft type, and \*\*VARIANT\*\* should be the variant model name (e.g A320-111). However, it can in reality be whatever works. This file sets the base properties for the aircraft type (if it is the \*\*AIRCRAFT TYPE\*\*.txt file), or it overwrites/extends the aircraft type base file.
 
-As an example, when you define a varient, say AIRBUS/A320/Varients/A320-111.txt, any properties in this file will overwrite the properties of the AIRBUS/A320/A320.txt file for the varient.
+As an example, when you define a variant, say AIRBUS/A320/Variants/A320-111.txt, any properties in this file will overwrite the properties of the AIRBUS/A320/A320.txt file for the variant.
 
 | Property Key 	| Description   							| Example		|
 | --------------|:-----------------------------------------:|:-------------:|
