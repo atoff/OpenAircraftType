@@ -1,7 +1,8 @@
 import os,csv,configparser
 
-output_csv = "../build/ALL_DATA.csv"
-read_dir = "../src"
+file_dir = os.path.dirname(__file__)
+output_csv = os.path.join(file_dir, "../../build/ALL_DATA.csv")
+read_dir = os.path.join(file_dir, "../../src")
 
 man_cols = {
     "NAME": "manufacturer_name",
@@ -48,8 +49,14 @@ for group_dir in os.listdir(read_dir): # iterate high-level groups, like A, B, C
 
         manufacturer_dir = os.path.join(read_dir, group_dir, manufacturer)
 
-        with open(os.path.join(manufacturer_dir, "manufacturer.txt"), 'r') as file:
-            config.read_string('[MANUFACTURER]\n' + file.read())
+        file_path = os.path.join(manufacturer_dir, "manufacturer.txt")
+        with open(file_path, 'r') as file:
+            try:
+                config.read_string('[MANUFACTURER]\n' + file.read())
+            except Exception as error:
+                print("Error whilst parsing " + os.path.abspath(file_path) + ": " + str(error))
+                exit()
+
         
         config = config['MANUFACTURER']
         man_insert = [config.get('name'), config.get('company')]
