@@ -1,0 +1,8 @@
+MODEL = Mi-1
+ICAO = MI1
+CLASS = H
+WAKE = L
+ENG_TYPE = P
+ENG_NUM = 1
+PAX_CAP = 2
+REMARKS = First Soviet production helicopter, multipurpose use.
