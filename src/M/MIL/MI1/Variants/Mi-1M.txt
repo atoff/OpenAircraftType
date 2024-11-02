@@ -1,0 +1,2 @@
+MODEL = Mi-1M
+REMARKS = Mi-1M – A modernized version with enhanced performance, designed for transporting people and cargo.

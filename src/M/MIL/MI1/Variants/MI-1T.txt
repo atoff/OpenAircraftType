@@ -1,0 +1,2 @@
+MODEL = Mi-1T
+REMARKS = A transport version specifically modified for carrying cargo.
